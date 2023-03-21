@@ -8,7 +8,7 @@ import threading
 
 oldTime = 0
 #Your OpenAI API Key
-openai.api_key = "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"
+openai.api_key = "Your-API-Key"
 
 #Speech Recognition 
 r = sr.Recognizer()
