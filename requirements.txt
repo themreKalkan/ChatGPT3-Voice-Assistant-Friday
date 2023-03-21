@@ -1,0 +1,4 @@
+openai==0.26.5
+SpeechRecognition==3.8.1
+gTTS==2.2.1
+pygame==2.0.1
