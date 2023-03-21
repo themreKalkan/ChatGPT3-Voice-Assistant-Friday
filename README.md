@@ -1,8 +1,9 @@
 # ChatGPT3 Modelled Voice Assistnat
 
-Friday is ChatGPT3 modelled voice assistant for generate response your every questio
+Friday is ChatGPT3 modelled voice assistant for generate response your every question.
 
 ## Usage
+First install the libraries.
 
 ```python
 pip install openai
